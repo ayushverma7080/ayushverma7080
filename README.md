@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush Verma, a 3rd year CSE sophomore. 
+- 👋 Hi, I’m Ayush Verma, a final year CSE sophomore. 
 - 👀 I’m interested in Computer science engineering as I'm currently pursuing B.Tech (CSE) . 
 - 🌱 I’m currently learning various programming languages and of course DSA along with OS & DBMS. 
 - 💞️ I’m looking for an internship for the same just to polish up my skills nicely and to compete within the industry.
